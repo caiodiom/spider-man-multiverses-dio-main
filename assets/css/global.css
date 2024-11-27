@@ -6,4 +6,10 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  
 }
+
+a{
+  cursor: url("../cursor/teia.png"), auto;
+}
+
